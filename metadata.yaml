@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5287
     wikipedia: http://en.wikipedia.org/wiki/Marie_Bashkirtseff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18106#Lettres-de-Marie-BashkirtseffPr-face-de-Fran-ois-Copp-e
 gutenberg_bookshelf:
 - FR Biographie, Mémoires, Journal intime, Correspondance
 - FR Femmes
